@@ -1,0 +1,6 @@
+entity\User.class
+dao\DuplicateUser.class
+dao\UserDao.class
+servlets\LoginServlet.class
+helper\ConnectionProvider.class
+servlets\RegisterServlet.class
